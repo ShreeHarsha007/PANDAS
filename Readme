@@ -1,0 +1,13 @@
+dict1 ={'Name':['Shree Harsha','SriRam','Ranganath','Rakesh','Abhishek',
+                'Ashish','Vinay','Chethan'],
+                'Marks':[99,89,99,87,90,83,99,89],
+                'Gender':['Male','Female','Female','Male','Male',
+                         'Female','Female','Male']
+               }
+
+This is the Data Used!!!
+
+
+Pre-requisite 
+1. Install Jupyter Notebook or use GOGGLE COLAB
+2. Download Pandas library --------> -pip install pandas 
